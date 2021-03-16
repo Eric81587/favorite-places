@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+  text-align: left;
+  font-weight: bold;
+}
+
+li {
+  font-style: italic;
+  text-align: left;
+}
+p {
+  font-family:'Times New Roman', Times, serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
